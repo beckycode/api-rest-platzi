@@ -1,0 +1,19 @@
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+img {
+  max-width: 300px;
+  max-height: 300pz;
+}
+
+button{
+  padding: 5px;
+  margin: 5px;
+  max-width: 100px;
+}
+
+.images {
+  display: grid;
+}
